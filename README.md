@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Yashwanth98765
 Studing betch 2nd year of computer science, in Bharathuniversity, chennai
 - 👀 I’m interested in learning new things in programing to creat new things
-- 🌱 I’m currently learning python, c++
+- 
+- 🌱  I learned html css and javascript ,
+- I’m currently learning python, c++
 -  
 - 📫you can reach me on my email chithalooriyashwanthgoud@gmail.com, or ph 9573184992,0r linked in: https://www.linkedin.com/in/chithaloori-yashwanth-goud-a446a21bb
 
