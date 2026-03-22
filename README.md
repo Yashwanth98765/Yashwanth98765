@@ -7,9 +7,9 @@ I am currently pursuing my M.Sc. in Artificial Intelligence at THWS (Technische 
 -🧠 Current Focus: Advanced Deep Learning architectures and explainable AI in Computer Vision.
 -📍 Location: Würzburg, Germany.
 
-Category,Tools & Technologies
-Languages,"Python, SQL, C++"
-Machine Learning,"PyTorch, TensorFlow, Scikit-learn"
-Data Science,"Pandas, NumPy, Matplotlib, Seaborn"
-Computer Vision,"OpenCV, TorchVision, Image Segmentation, Object Detection"
-Tools & DevOps,"Git, Docker, Linux, Jupyter"
+Languages          :Python, SQL.
+Machine Learning   :PyTorch, TensorFlow, Scikit-learn
+GenerativeAI & NLP :LLMs (Llama-3), RAG, LangChain, Hugging Face, FAISS, OpenAI Whisper, Groq API
+Data Science       :Pandas, NumPy, Matplotlib, Seaborn
+Computer Vision    :OpenCV, YuNet, SFace YOLO, SterioVision Grad-CAM, LIME
+Tools              :Git, Jupyter
