@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Yashwanth98765
-Studing betch 2nd year of computer science, in Bharathuniversity, chennai
-- 👀 I’m interested in learning new things in programing to creat new things
-- 
-- 🌱  I learned html css and javascript ,
-- I’m currently learning python, c++
--  
-- 📫you can reach me on my email chithalooriyashwanthgoud@gmail.com, or ph 9573184992,0r linked in: https://www.linkedin.com/in/chithaloori-yashwanth-goud-a446a21bb
+Hi there! I'm Yashwanth Chithaloori 👋
+AI Engineer & Machine Learning Specialist
+I am currently pursuing my M.Sc. in Artificial Intelligence at THWS (Technische Hochschule Würzburg-Schweinfurt) in Germany. My work is driven by the goal of building reliable, transparent, and high-impact machine learning models, with a specialized focus on Computer Vision.
 
-<!---
-Yashwanth98765/Yashwanth98765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at yohttps://www.linkedin.com/in/chithaloori-yashwanth-goud-a446a21bb
+🚀 About Me
+-🎓 Academic Background: B.Tech in Computer Science & Engineering (First Class with Distinction | 9.1 CGPA).
+-🧠 Current Focus: Advanced Deep Learning architectures and explainable AI in Computer Vision.
+-📍 Location: Würzburg, Germany.
+
+Category,Tools & Technologies
+Languages,"Python, SQL, C++"
+Machine Learning,"PyTorch, TensorFlow, Scikit-learn"
+Data Science,"Pandas, NumPy, Matplotlib, Seaborn"
+Computer Vision,"OpenCV, TorchVision, Image Segmentation, Object Detection"
+Tools & DevOps,"Git, Docker, Linux, Jupyter"
